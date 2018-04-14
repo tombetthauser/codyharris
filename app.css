@@ -4,13 +4,14 @@ img {
 	margin-top: 10%;
 	max-width: 90%;
 	height: auto;
-    transition: 3s;
+    opacity: 1;
+    transition: 20s;
 }
 
 img:hover {
     -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
     filter: blur(5px);
-    transition: 1s;
+    transition: 10s;
 }
 
 img {
